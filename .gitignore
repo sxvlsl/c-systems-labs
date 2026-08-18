@@ -1,0 +1,12 @@
+# Binarios y objetos de C
+*.o
+*.out
+*.so
+*.a
+bin/
+build/
+a.out
+
+# Entornos de desarrollo
+.vscode/
+.idea/
