@@ -10,3 +10,8 @@ a.out
 # Entornos de desarrollo
 .vscode/
 .idea/
+
+# Archivos específicos de JetBrains CLion
+.idea/
+cmake-build-debug/
+cmake-build-release/
