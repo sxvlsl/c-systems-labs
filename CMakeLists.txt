@@ -8,4 +8,5 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 add_compile_options(-Wall -Wextra -Wpedantic -g)
 
 # Programa de ejemplo inicial
-add_executable(c_systems_labs main.c)
+add_executable(c_systems_labs main.c
+        radix-converter/base_converter.c)
